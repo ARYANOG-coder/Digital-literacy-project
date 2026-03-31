@@ -44,7 +44,7 @@ digital-literacy-project/
 │   └── Project_Report.pdf             ← Full written project report
 │
 ├── task-1-presentation/
-│   ├── Project_Report                  ← Tool used and reflection
+│   ├── Project_Report(1).                  ← Tool used and reflection
 │   └── digital-literacy-infographic.pdf ← Canva infographic
 │
 ├── task-2-portfolio/
