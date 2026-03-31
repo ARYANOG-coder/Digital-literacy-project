@@ -89,9 +89,9 @@ Set up professional profiles on three platforms:
 
 | Platform | Profile Link |
 |----------|-------------|
-| **GitHub** | [github.com/rajsingh-20](https://github.com/rajsingh-20) |
-| **LinkedIn** | [linkedin.com/in/rajsingh34329369](https://www.linkedin.com/in/rajsingh34329369) |
-| **Kaggle** | [kaggle.com/rajsingh16618](https://kaggle.com/rajsingh16618) |
+| **GitHub** | [github.com/ARYANOG-coder](https://github.com/ARYANOG-coder) |
+| **LinkedIn** | [linkedin.com/in/aryan-uday-kansagara-4745b4379](www.linkedin.com/in/aryan-uday-kansagara-4745b4379) |
+| **Kaggle** | [kaggle.com/]() |
 
 - Screenshots of all three profiles are in `task-2-portfolio/`
 
@@ -144,10 +144,10 @@ Set up professional profiles on three platforms:
 
 | Platform | Link |
 |----------|------|
-| GitHub | [github.com/rajsingh-20](https://github.com/rajsingh-20) |
-| LinkedIn | [linkedin.com/in/rajsingh34329369](https://www.linkedin.com/in/rajsingh34329369) |
-| Kaggle | [kaggle.com/rajsingh16618](https://kaggle.com/rajsingh16618) |
-| Email | raj.25bai10997@vitbhopal.ac.in |
+| GitHub | [github.com/ARYANOG-coder](https://github.com/ARYANOG-coder) |
+| LinkedIn | [linkedin.com/in/aryan-uday-kansagara-4745b4379](www.linkedin.com/in/aryan-uday-kansagara-4745b4379) |
+| Kaggle | [kaggle.com/]() |
+| Email | aryan.25bai11021@vitbhopal.ac.in |
 
 ---
 
