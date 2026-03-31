@@ -7,8 +7,8 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | Raj Singh |
-| **Registration No.** | 25BAI10997 |
+| **Name** | Aryan Uday Kansagara |
+| **Registration No.** | 25BAI11021 |
 | **Branch** | CSE (AI & ML) |
 | **Year** | First Year B.Tech |
 | **Course Code** | CSE0001 |
@@ -44,7 +44,7 @@ digital-literacy-project/
 │   └── Project_Report.pdf             ← Full written project report
 │
 ├── task-1-presentation/
-│   ├── description.txt                  ← Tool used and reflection
+│   ├── Project_Report                  ← Tool used and reflection
 │   └── digital-literacy-infographic.pdf ← Canva infographic
 │
 ├── task-2-portfolio/
