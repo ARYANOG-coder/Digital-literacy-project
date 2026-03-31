@@ -91,7 +91,7 @@ Set up professional profiles on three platforms:
 |----------|-------------|
 | **GitHub** | [github.com/ARYANOG-coder](https://github.com/ARYANOG-coder) |
 | **LinkedIn** | [linkedin.com/in/aryan-uday-kansagara-4745b4379](www.linkedin.com/in/aryan-uday-kansagara-4745b4379) |
-| **Kaggle** | [kaggle.com/]() |
+| **Kaggle** | [kaggle.com/aryankansagara](https://www.kaggle.com/aryankansagara) |
 
 - Screenshots of all three profiles are in `task-2-portfolio/`
 
@@ -146,7 +146,7 @@ Set up professional profiles on three platforms:
 |----------|------|
 | GitHub | [github.com/ARYANOG-coder](https://github.com/ARYANOG-coder) |
 | LinkedIn | [linkedin.com/in/aryan-uday-kansagara-4745b4379](www.linkedin.com/in/aryan-uday-kansagara-4745b4379) |
-| Kaggle | [kaggle.com/]() |
+| Kaggle | [kaggle.com/aryankansagara](https://www.kaggle.com/aryankansagara) |
 | Email | aryan.25bai11021@vitbhopal.ac.in |
 
 ---
